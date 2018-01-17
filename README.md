@@ -1,2 +1,0 @@
-# changelly
-Android
